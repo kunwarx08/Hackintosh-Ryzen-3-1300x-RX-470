@@ -1,6 +1,6 @@
 # Hackintosh-Ryzen-3-1300x-RX-470
 
-Used OpenCore Version 0.9.1
+Used OpenCore Version 0.9.1 --
 https://dortania.github.io/OpenCore-Install-Guide/ 
 
 # What is a Hackintosh?
