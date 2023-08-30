@@ -1,5 +1,8 @@
 # Hackintosh-Ryzen-3-1300x-RX-470
 
+Used OpenCore Version 0.9.1
+https://dortania.github.io/OpenCore-Install-Guide/ 
+
 # What is a Hackintosh?
 A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on computer hardware not authorized for the purpose by Apple.
 
