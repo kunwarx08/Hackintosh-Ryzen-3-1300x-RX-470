@@ -1,1 +1,27 @@
 # Hackintosh-Ryzen-3-1300x-RX-470
+
+# What is a Hackintosh?
+A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on computer hardware not authorized for the purpose by Apple.
+
+# My Specifications (Running dual boot)
+-Ryzen 3 1300x
+-RX 470
+-Asus Prime A320m-K
+-8gb Hyper Fury 2133mhz
+-OSCOO 128gb SSD (MacOS)
+-WD green 500gb (Windows)
+-WD Blue 1 TB (Windows)
+
+# FAQ
+-Facetime,imessage and all the things are working fine.
+-All icloud services are working.
+-Audio also works fine
+-Bluetooth working natively with TP-Link UB-400
+
+# Specific Things Post install I Did.
+
+set ALCID = 3 in bootargs 
+Added few kexts for Bluetooth to work.
+
+
+
