@@ -14,12 +14,14 @@ A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on
 -OSCOO 128gb SSD (MacOS)
 -WD green 500gb (Windows)
 -WD Blue 1 TB (Windows)
+-TP-Link UB400
 
 # FAQ
 -Facetime,imessage and all the things are working fine.
 -All icloud services are working.
 -Audio also works fine
 -Bluetooth working natively with TP-Link UB-400
+-Airdrop,Handoff and other continuity feature are not working as of now as not using a apple supported wireless card yet though will update it soon.
 
 # Specific Things Post install I Did.
 
