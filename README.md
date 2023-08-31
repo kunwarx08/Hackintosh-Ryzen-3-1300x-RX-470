@@ -25,7 +25,7 @@ A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on
 
 # Specific Things Post install I Did.
 
-set ALCID = 3 in bootargs 
+set ALCID = 3 in bootargs --
 Added few kexts for Bluetooth to work.
 
 
