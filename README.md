@@ -28,5 +28,8 @@ A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on
 set ALCID = 3 in bootargs --
 Added few kexts for Bluetooth to work.
 
+# About AMD non supported softwares
+yes amd might struggle in virtualisation softwares as per the guide but i was working in android studio without using Android emolator (Virtualisation) it is working completely fine.
+
 
 
