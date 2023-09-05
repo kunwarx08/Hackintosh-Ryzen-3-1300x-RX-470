@@ -15,6 +15,7 @@ A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on
 -WD green 500gb (Windows)
 -WD Blue 1 TB (Windows)
 -TP-Link UB400
+(Using SMBIOS iMac 19,1) 
 
 # FAQ
 -Facetime,imessage and all the things are working fine.
