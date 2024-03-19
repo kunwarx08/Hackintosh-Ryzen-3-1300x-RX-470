@@ -32,5 +32,8 @@ Added few kexts for Bluetooth to work.
 # About AMD non supported softwares
 yes amd might struggle in virtualisation softwares as per the guide but i was working in android studio without using Android emolator (Virtualisation) it is working completely fine.
 
+# Bios Changes
+allowed the installation file referencing the youtube video.
+
 
 
