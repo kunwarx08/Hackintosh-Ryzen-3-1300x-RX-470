@@ -40,6 +40,9 @@ Bios Key Management section in this video very important - https://youtu.be/K9iy
 
 # Below are images of BIOS setting Recommended from the guide and ones which i changed back then which finally worked.
 
+I don't exactly remember i turned fTPM enable or disable will update untill then try both if you can read this line.
+I don't exactly remember i set OS Type to Windows UEFI or Other OS will update.
+
 ![WhatsApp Image 2024-04-14 at 04 58 14 (1)](https://github.com/kunwarx08/Hackintosh-Ryzen-3-1300x-RX-470/assets/128555024/3b77c1aa-7fdf-4764-81be-47c4a2fa6a38)
 ![WhatsApp Image 2024-04-14 at 04 58 14 (2)](https://github.com/kunwarx08/Hackintosh-Ryzen-3-1300x-RX-470/assets/128555024/abc92b48-327a-4fa1-a7df-d4cb4cc15da3)
 ![WhatsApp Image 2024-04-14 at 04 58 14 (3)](https://github.com/kunwarx08/Hackintosh-Ryzen-3-1300x-RX-470/assets/128555024/ad8a10e9-4d5f-4da4-86ef-e3aeacc85ade)
