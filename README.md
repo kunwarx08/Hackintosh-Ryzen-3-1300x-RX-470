@@ -38,10 +38,16 @@ yes amd might struggle in virtualisation softwares as per the guide but i was wo
 allowed the installation file referencing the youtube video which is as follows...
 Bios Key Management section in this video very important - https://youtu.be/K9iyMm7PvYc?si=G29WfFnmfL34rciH
 
+# You might need to press space in order to see the installer, as in later versions of OpenCore HideAuxiliary is enabled by default.
+Example Images of before and after...
+![Screenshot 2024-04-15 at 11 32 58 PM](https://github.com/kunwarx08/Hackintosh-Ryzen-3-1300x-RX-470/assets/128555024/107d03de-c5ac-4b99-8ab7-782e18a62123)
+![Screenshot 2024-04-15 at 11 34 04 PM](https://github.com/kunwarx08/Hackintosh-Ryzen-3-1300x-RX-470/assets/128555024/54f1afb0-d149-40d4-9a82-c88aa188663d)
+
+
 # Below are images of BIOS setting Recommended from the guide and ones which i changed back then which finally worked.
 
-I don't exactly remember i turned fTPM enable or disable will update untill then try both if you can read this line.
-I don't exactly remember i set OS Type to Windows UEFI or Other OS will update.
+fTPM Disabled
+OS Type -> Other OS
 
 ![WhatsApp Image 2024-04-14 at 04 58 14 (1)](https://github.com/kunwarx08/Hackintosh-Ryzen-3-1300x-RX-470/assets/128555024/3b77c1aa-7fdf-4764-81be-47c4a2fa6a38)
 ![WhatsApp Image 2024-04-14 at 04 58 14 (2)](https://github.com/kunwarx08/Hackintosh-Ryzen-3-1300x-RX-470/assets/128555024/abc92b48-327a-4fa1-a7df-d4cb4cc15da3)
